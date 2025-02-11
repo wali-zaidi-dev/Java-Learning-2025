@@ -20,7 +20,7 @@ To get started with this repository:
 
 Clone the Repository:
 
-git clone https://github.com/wali-zaidi-dev/Java-Learning.git
+git clone https://github.com/wali-zaidi-dev/Java-Learning-2025.git
 
 Navigate to a Topic:
 
